@@ -22,6 +22,10 @@ My primary goal was to transform the current design into a more modern and intui
 
 - [Resonate Flutter App](https://github.com/AOSSIE-Org/Resonate)
 
+## App Demo (fellow contributor)
+
+- [Resonate App Demo](https://youtu.be/Qjt1p5Ty6do?feature=shared)
+
 
 ## Tasks Accomplished
 
